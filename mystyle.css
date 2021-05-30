@@ -1,0 +1,51 @@
+img {
+  width: 50%;
+  height: 50%;
+  margin: auto;
+  display: block;
+}
+
+body {
+background-color: aquamarine;
+}
+
+p {
+  background-color: #ADD8E6;
+  color: #808080;
+  text-align: center;
+  font-family: cursive;
+  font-size: 20px;
+}
+
+h2 {
+  color: chocolate;
+  border: medium dashed green;
+  padding: 10px;
+  line-height: 15px;
+  text-align: justify;
+  font-size: 30px;
+}
+
+nav {
+  background-color: #6495ED;
+  height: 50px;
+}
+
+nav ul {
+  
+}
+
+nav ul li {
+  list-style-type: none;
+  width: 150px;
+  float: left;
+  border-right: 1px solid aquamarine;
+  text-align: center;
+}
+
+nav ul li a {
+  text-decoration: none;
+  color: white;
+  line-height: 50px;
+  display: block;
+}
